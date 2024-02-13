@@ -1,6 +1,7 @@
 <!-- markdownlint-disable MD041 MD002 -->
 <div align="center">
   <h1>📕 Docs</h1>
+  <h2>Project Tasks</h2>
   <strong>Documentation for popular programming languages and frameworks.</strong><br>
   <strong>Built by the community. Maintained by Codecademy.</strong>
 </div>
